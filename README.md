@@ -10,6 +10,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [VS Code Ultimate Customization - Change the color of the Cursor in VS Code](https://decisivedevops.com/vs-code-ultimate-customization-change-the-color-of-the-cursor-in-vs-code)
+- [Getting started with AWS Chatbot](https://decisivedevops.com/getting-started-with-aws-chatbot)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
