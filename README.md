@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhinav.</h1>
 <h3 align="center">Passionate about DevOps, AWS, and Open Source tools and technologies.</h3>
 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decisivedevops&label=Profile%20views&color=0e75b6&style=flat" alt="decisivedevops" /> </p>
 
 <p align="left"> <a href="https://twitter.com/decisivedevops" target="blank"><img src="https://img.shields.io/twitter/follow/decisivedevops?logo=twitter&style=for-the-badge" alt="decisivedevops" /></a> </p>
