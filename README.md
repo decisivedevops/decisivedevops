@@ -7,7 +7,22 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=decisivedevops&label=Profile%20views&color=0e75b6&style=flat" alt="decisivedevops" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=decisivedevops&label=Profile%20views&color=0e75b6&style=flat" alt="decisivedevops" /> </p>
+ -->
+
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
+- 🔭 I’m currently working in `Letshego Holdings Limited` as `Senior AWS/DevOps Engineer`
+
+- 👯 I’m looking forward to collaborate on open source projects.
+
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/decisivedevops)**
+
+- 😄 Pronouns: He/Him/We
+
+- 💪🏼 Fav Quote: "Improve yourself 1% daily".
 
 <p align="left"> <a href="https://twitter.com/decisivedevops" target="blank"><img src="https://img.shields.io/twitter/follow/decisivedevops?logo=twitter&style=for-the-badge" alt="decisivedevops" /></a> </p>
 
