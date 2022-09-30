@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/decisivedevops" target="blank"><img src="https://img.shields.io/twitter/follow/decisivedevops?logo=twitter&style=for-the-badge" alt="decisivedevops" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decisivedevops" alt="decisivedevops" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decisivedevops" alt="decisivedevops" /></a> </p> -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
