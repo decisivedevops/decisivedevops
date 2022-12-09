@@ -30,8 +30,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Ultimate Customization - Change the color of the Cursor in VS Code](https://decisivedevops.com/vs-code-ultimate-customization-change-the-color-of-the-cursor-in-vs-code)
-- [Getting started with AWS Chatbot](https://decisivedevops.com/getting-started-with-aws-chatbot)
+- [AWS ChatBot – Implementing ChatOps using Slack – Part 1](https://www.decisivedevops.com/aws-chatbot-implementing-chatops-using-slack-part-1/)
+- [Customize VSCode &lpar;Part 1&rpar; – Change the Color of the Cursor in VSCode](https://www.decisivedevops.com/customize-vscode-part-1-change-the-color-of-the-cursor-in-vscode/)
+- [Improve Your Linux Skills with these 3 Free Resources](https://www.decisivedevops.com/improve-your-linux-skills-with-these-3-free-resources/)
+- [VSCode Extensions for DevOps Engineers that Help with Productivity &amp; Efficiency](https://www.decisivedevops.com/vscode-extensions-for-devops-engineers-that-help-with-productivity-efficiency/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
