@@ -31,9 +31,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Vscode Extensions for Devops Engineers That Help With Productivity](https://www.decisivedevops.com/vscode-extensions-for-devops-engineers-that-help-with-productivity/)
-- [Change the Color of the Cursor in VSCode](https://www.decisivedevops.com/change-the-color-of-the-cursor-in-vscode/)
 - [AWS Chatbot - Implementing ChatOps using Slack - Part 1](https://www.decisivedevops.com/aws-chatbot-implementing-chatops-using-slack-part-1/)
 - [About](https://www.decisivedevops.com/about/)
+- [Improve Your Linux Skills with these 3 Free Resources](https://www.decisivedevops.com/improve-your-linux-skills-with-these-3-free-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
