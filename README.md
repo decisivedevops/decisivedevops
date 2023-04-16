@@ -14,9 +14,9 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Letshego Holdings Limited` as `Senior AWS/DevOps Engineer`
+- 🔭 I’m currently working as `Senior AWS/DevOps Consultant` for various organnizations.
 
-- 👯 I’m looking forward to collaborate on open source projects.
+- 👯 I’m looking forward to collaborate with you on your DevOps and AWS related projects.
 
 - 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/decisivedevops)**
 
